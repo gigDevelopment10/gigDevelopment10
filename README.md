@@ -5,6 +5,8 @@
 
 <div style="display: flex; flex-direction: row;">
  <img class="img" align ="center" src="https://github-readme-stats.vercel.app/api?username=gigDevelopment10&theme=city_light&hide_border=false&include_all_commits=true&count_private=true" />
+ <br>
+ <br>
  <img class="img" align ="center" src="https://github-readme-streak-stats.herokuapp.com/?user=gigDevelopment10&theme=city_light&hide_border=false" />
 </div>
 
