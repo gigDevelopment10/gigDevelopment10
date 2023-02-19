@@ -13,5 +13,5 @@
 
 
     
-![Visitor Count](https://profile-counter.glitch.me/gigDevelopment10/count.svg)
+[![](https://visitcount.itsvg.in/api?id=gigDevelopment10&icon=0&color=5)](https://visitcount.itsvg.in)
 
