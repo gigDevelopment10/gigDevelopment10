@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Zoya</h1>
 <h2 align="center">I like to design intelligence for machines</h2>
 
-<p align="center">As a budding AI engineer I have few years of pratical experience in ML, DL, and NLP, I'm fascinated by the art of crafting algorithms. I love tackling complex problems, and I'm constantly seeking out new challenges to help me grow as a professional. I'm adept at fine-tuning existing models and designing new ones from scratch, and I'm always exploring new techniques to enhance model performance. If you're looking for an innovative, results-driven team member, look no further! Let's work together to create cutting-edge AI solutions that drive real-world impact." </p>
+<p align="center">As a budding AI engineer I have few years of pratical experience in ML, DL, and NLP, I'm fascinated by the art of crafting algorithms. I love tackling complex problems, and I'm constantly seeking out new challenges to help me grow as a professional. I'm adept at fine-tuning existing models and designing new ones from scratch, and I'm always exploring new techniques to enhance model performance.<br>If you're looking for an innovative, results-driven team member, look no further! Let's work together to create cutting-edge AI solutions that drive real-world impact" </p>
 
 
 
