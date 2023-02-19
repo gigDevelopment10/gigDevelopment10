@@ -3,7 +3,10 @@
 
 <p align="center">As a budding AI engineer I have few years of pratical experience in ML, DL, and NLP, I'm fascinated by the art of crafting algorithms. I love tackling complex problems, and I'm constantly seeking out new challenges to help me grow as a professional. I'm adept at fine-tuning existing models and designing new ones from scratch, and I'm always exploring new techniques to enhance model performance.<br>If you're looking for an innovative, results-driven team member, look no further! Let's work together to create cutting-edge AI solutions that drive real-world impact" </p>
 
-
+<div style="display: flex; flex-direction: row;">
+ <img class="img" align ="center" src="https://github-readme-stats.vercel.app/api?username=gigDevelopment10&theme=city_light&hide_border=false&include_all_commits=true&count_private=true" />
+ <img class="img" align ="center" src="https://github-readme-streak-stats.herokuapp.com/?user=gigDevelopment10&theme=city_light&hide_border=false" />
+</div>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
