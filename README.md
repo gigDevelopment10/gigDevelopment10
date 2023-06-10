@@ -1,14 +1,24 @@
-<h1 align="center">Hi 👋, I'm Zoya Jamadar</h1>
-<h2 align="center">Passionate about desiging Intelligence</h2>
 
-<p align="center">As a budding AI engineer I have few years of pratical experience in ML, DL, and NLP, I'm fascinated by the art of crafting algorithms. I love tackling complex problems, and I'm constantly seeking out new challenges to help me grow as a professional. I'm adept at fine-tuning existing models and designing new ones from scratch, and I'm always exploring new techniques to enhance model performance.<br>If you're looking for an innovative, results-driven team member, look no further! Let's work together to create cutting-edge AI solutions that drive real-world impact" </p>
+[![](https://visitcount.itsvg.in/api?id=gigDevelopment10&icon=0&color=4)](https://visitcount.itsvg.in)
 
-<div style="display: flex; flex-direction: row;" align="center">
- <img class="img" align ="center" src="https://github-readme-streak-stats.herokuapp.com/?user=gigDevelopment10&theme=city_light&hide_border=false" />
-  <br>
-  <br>
- <img class="img" align ="center" src="https://github-readme-stats.vercel.app/api?username=gigDevelopment10&theme=city_light&hide_border=false&include_all_commits=true&count_private=true" />
-</div>
+<!-- Introduction -->
+
+<h1> 🙋🏻‍♀️ I'm Zoya Jamadar</h1>
+<h2>💫 About Me</h2>
+
+<!-- Abour Me Section -->
+
+<p> 👩🏻‍💻 I'm a Final year student at Vishwakarma Intitute of Technology </p>
+<p> ☘️ I’m currently exploring the world of NLP and Deep Neural Networks.</p>
+<p> 😁 My interest lies in backend development, along with creating innovative AI and DL models.</p>
+<p> 👬🏻 I’m looking to collaborate with other developers on awesome new and innovative projects.</p>
+<p> ⚡️  Fun fact: Music is my thing; Blogger; Ideas-Hub.
+<p> 💬 Ask me about anything, I'd love to know something new!</p>
+<p> 📫 Drop me an email at zoyajmd@gmail.com </p>
+
+<hr/>
+
+<!-- Connect with me Section -->
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -22,5 +32,4 @@
 
 
     
-[![](https://visitcount.itsvg.in/api?id=gigDevelopment10&icon=0&color=5)](https://visitcount.itsvg.in)
 
