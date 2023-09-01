@@ -8,10 +8,12 @@
 
 <!-- Abour Me Section -->
 
-<p> 👩🏻‍💻 I'm a Final year student at Vishwakarma Intitute of Technology </p>
-<p> ☘️ I’m currently exploring the world of NLP and Deep Neural Networks.</p>
-<p> 😁 My interest lies in backend development, along with creating innovative AI and DL models.</p>
+<p> 👩🏻‍💻 Senior undergrad @Vishwakarma Intitute of Technology </p>
+<p> 🚀 Tech enthusiast with a mission! </p>
+<p> 🤠 Passionate about crafting software that matters..</p>
+<p> 🌍 Lifelong learner, team player, and natural communicator.</p>
 <p> 👬🏻 I’m looking to collaborate with other developers on awesome new and innovative projects.</p>
+<p> 🎨 Creativity fuels my coding journey, and I'm currently exploring Generative AI and creative AI-ML models. </p>
 <p> ⚡️  Fun fact: Music is my thing; Blogger; Ideas-Hub.
 <p> 💬 Ask me about anything, I'd love to know something new!</p>
 <p> 📫 Drop me an email at zoyajmd@gmail.com </p>
