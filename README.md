@@ -8,7 +8,7 @@
 
 <!-- Abour Me Section -->
 
-<p> 👩🏻‍💻 Senior undergrad @Vishwakarma Intitute of Technology </p>
+<p> 👩🏻‍💻 Analyst @BlackRock </p>
 <p> 🚀 Tech enthusiast with a mission! </p>
 <p> 🤠 Passionate about crafting software that matters..</p>
 <p> 🌍 Lifelong learner, team player, and natural communicator.</p>
