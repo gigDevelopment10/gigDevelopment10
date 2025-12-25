@@ -1,24 +1,20 @@
 
-[![](https://visitcount.itsvg.in/api?id=gigDevelopment10&icon=0&color=4)](https://visitcount.itsvg.in)
+# Zoya Jamadar
+### SDE@Blackrock | MS CS Georgia Tech
 
-<!-- Introduction -->
+My research focuses on the design and analysis of algorithmic systems for large-scale financial data. I study how optimization, probabilistic modeling, and learning-based methods can be combined to build robust, interpretable, and efficient decision-making systems in modern financial markets.
 
-<h1> 🙋🏻‍♀️ I'm Zoya Jamadar</h1>
-<h2>💫 About Me</h2>
+A central theme of my work is understanding how algorithmic performance and risk behave under distribution shift, delayed feedback, and strategic behavior settings that naturally arise in fintech applications such as credit modeling, fraud detection, and algorithmic trading.
 
-<!-- Abour Me Section -->
+Methodologically, I draw from algorithms, statistical learning theory, and large-scale data systems, with the goal of developing principled techniques that remain reliable under real-world constraints including data sparsity, non-stationarity, and regulatory considerations.
 
-<p> 👩🏻‍💻 Analyst @BlackRock </p>
-<p> 🚀 Tech enthusiast with a mission! </p>
-<p> 🤠 Passionate about crafting software that matters..</p>
-<p> 🌍 Lifelong learner, team player, and natural communicator.</p>
-<p> 👬🏻 I’m looking to collaborate with other developers on awesome new and innovative projects.</p>
-<p> 🎨 Creativity fuels my coding journey, and I'm currently exploring Generative AI and creative AI-ML models. </p>
-<p> ⚡️  Fun fact: Music is my thing; Blogger; Ideas-Hub.
-<p> 💬 Ask me about anything, I'd love to know something new!</p>
-<p> 📫 Drop me an email at zoyajmd@gmail.com </p>
 
-<hr/>
+Contact Email : zoya.lpf20@gmail.com
+
+Linkedin : [Link](https://www.linkedin.com/in/zoya-jamadar-deepinai/)
+
+
+
 
 
     
