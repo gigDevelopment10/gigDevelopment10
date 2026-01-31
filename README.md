@@ -2,12 +2,15 @@
 # Zoya Jamadar
 ### SDE@Blackrock | MS CS Georgia Tech
 
-My research focuses on the design and analysis of algorithmic systems for large-scale financial data. I study how optimization, probabilistic modeling, and learning-based methods can be combined to build robust, interpretable, and efficient decision-making systems in modern financial markets.
+Hey There, 
 
-A central theme of my work is understanding how algorithmic performance and risk behave under distribution shift, delayed feedback, and strategic behavior settings that naturally arise in fintech applications such as credit modeling, fraud detection, and algorithmic trading.
+Hi, I’m Zoya! I’m currently pursuing my Master’s in Computer Science at Georgia Tech (OMSCS) while working full-time as a Software Engineer at BlackRock, contributing to the Aladdin Wealth Tech product engineering team.
 
-Methodologically, I draw from algorithms, statistical learning theory, and large-scale data systems, with the goal of developing principled techniques that remain reliable under real-world constraints including data sparsity, non-stationarity, and regulatory considerations.
+I completed my B.Tech in Artificial Intelligence and Data Science from Vishwakarma Institute of Technology (NAAC A++), Pune, India.
 
+Throughout my career, I’ve had the opportunity to win and participate in several competitions, including the Vodafone Idea Innovation Challenge, Smart India Hackathon, Veritas U Connect Hackathon, and more.
+
+I enjoy building impactful solutions and collaborating on exciting ideas. If you have an interesting idea, let’s turn it into reality over a cup of coffee and some code.
 
 Contact Email : zoya.lpf20@gmail.com
 
