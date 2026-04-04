@@ -12,7 +12,7 @@ I completed my B.Tech in Artificial Intelligence and Data Science from Vishwakar
 
 Throughout my career, I’ve had the opportunity to win and participate in several competitions, including the Vodafone Idea Innovation Challenge, Smart India Hackathon, Veritas U Connect Hackathon, and more.
 
-I enjoy building impactful solutions and collaborating on exciting ideas. If you have an interesting idea, let’s turn it into reality over a cup of coffee and some code.
+I enjoy building impactful solutions and collaborating on exciting projects. If you have an interesting idea, let’s turn it into reality over a cup of coffee and some code.
 
 Contact Email : zoya.lpf20@gmail.com / invokeyourthoughts@gmail.com
 
